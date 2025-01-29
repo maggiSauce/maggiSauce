@@ -2,7 +2,7 @@
 I am a second year Computing Sciences student at the University of Alberta and am a volunteer Software Team member for AlbertaSAT.
 - 🌱 I’m currently learning database management, computer architecture and algorithms
 - 🔭 I’m currently working on a GPS command handler for AlbertaSAT
-- ⚡ Fun fact: I won my first ever hackathon along with my team creating UAlberta Course Prerequisite Finder and have turned it into a website with over 1000 visits!
+- ⚡ Fun fact: I won my first ever hackathon along with my team creating the UAlberta Course Prerequisite Finder and have turned it into a website with over 1000 visits!
 
 
 
